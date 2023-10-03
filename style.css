@@ -245,6 +245,6 @@ body {
   transition: 0.5s ease all;
   cursor: pointer;
 }
-.arrow :hover {
+.arrow:hover {
   opacity: 1;
 }
